@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GameStarter</title>
+  </head>
+  <body>
+    <header>
+    <h1>GameStarter Welcomes You!</h1>
+    <h2>A simple blog about gaming!</h2>
+    <p>This is just another blog about gaming. There is absolutely nothing special about me and this at all</p>
+      <nav>
+        <ul>
+           <li><a href="#">Home</a></li>
+           <li><a href="#">About</a></li>
+           <li><a href="#">Latest Gaming News</a></li>
+           <li><a href="#">Reviews</a></li>
+           <li><a href="#">Contact us</a></li>
+        </ul>
+        </nav>
+   </header>
+   <section>
+   <h2>Latest Opinion Pieces</h2>
+       <article>
+     <h3>Are turn based combats RPGs a thing of the past?</h3>
+        <p>Turn based RPGs have made somewhat of a renaissance but is there enough innovation to maintain this in a modern console focussed so much on graphics,pacing and all out action?</p>
+       <a href="#">Read More</a>
+       </article>
+       <article>
+     <h3>Will finished games ever be released again?</h3>
+       <p>DLC and beta testing sounds great, however is it leading to sloppy work from developers and can we expect a complete game to be released in full ever again?</p>
+     <a href="#">Read More</a>
+       </article>
+     <article>
+     <h3>Are we entering the golden age of gaming or just leaving one?</h3>
+     <p>Games like Horizon Zero Dawn, God of War, and Red Dead Redemption 2 are setting the industry standard but are we running out of new ideas for games? I love these games but do you feel like you are seeing the same game every few years with slightly upgraded graphics and a slightly bigger map</p>
+     <a href="#">Read More</a>
+       </article>
+     </section>
+    <aside>
+      <h2>GameStarter's Friends</h2>
+          <ul>
+              <li><a href="#" target="_blank">HeidiPidee Twitch Channel</a></li>
+              <li><a href="#" target="_blank">GameStarter Twitter Page</a></li>
+              <li><a href="#" target="_blank">GameStarter YouTube Channel</a></li>  
+          </ul>
+    </aside> 
+    <a href="https://gamestarter.co.uk" target="_blank">My Opinions</a>
+      <section>
+    <h3>Contact</h3>  
+    <p>Contact us at dannyjonesbusiness@gmail.com.</p>
